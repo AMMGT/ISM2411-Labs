@@ -12,13 +12,15 @@ corresponds to a module.
 ## Modules
 
 - `week07/` — Functions: calculate tax, apply discounts, and compute final price
+- `week10/` — Lists, tuples, inventory, and sales exercises
+- `week11/` — Dictionary-based customer and pricing exercises
 
 ## How to Run
 
 Open a terminal in the repository and run:
 
 ```powershell
-python week07/functions.py
+python week11/lab11.py
 ```
 
 ## Reflection
