@@ -20,7 +20,7 @@ corresponds to a module.
 Open a terminal in the repository and run:
 
 ```powershell
-python week11/lab11.py
+python week11/lab11NEW.py
 ```
 
 ## Reflection
